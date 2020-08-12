@@ -2,6 +2,9 @@
 
 Turn-based game solution
 
+## Demo
+https://uche789.github.io/projects/turn-move/
+
 ## Project setup
 ```
 npm install
