@@ -1,5 +1,5 @@
 {
-  "name": "turn-base-game",
+  "name": "turn-move-game",
   "version": "0.1.0",
   "private": true,
   "scripts": {

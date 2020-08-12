@@ -1,4 +1,6 @@
-# turn-base-game
+# turn-based-game
+
+Turn-based game solution
 
 ## Project setup
 ```
